@@ -8,4 +8,4 @@
   + Photoshop, Illustrator, Figma
   
 #### Brand Operating
-  + [A.ELO - Hand Made Steel Accessory](https://www.idus.com/a-elo)
+  + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
