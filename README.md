@@ -1,4 +1,4 @@
-# Hi, I'm `JEEWON`  👻
+# Hi, I'm `< JEEWON />`  👻
 
 ### Web Front-end Engineer & Designer
 
