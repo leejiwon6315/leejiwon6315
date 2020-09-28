@@ -3,7 +3,7 @@
 ### Web Front-end Engineer & Designer
 
 #### Tech Stack
-  + HTML5, CSS3, Javascript, ES6
+  + HTML5, CSS3/SASS , Javascript, ES6
   + React.js, Next.js
   + Photoshop, Illustrator, Figma
   
