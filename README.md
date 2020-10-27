@@ -1,6 +1,6 @@
 # Hi, I'm `< JEEWON />`  👻
 
-### Web Front-end Engineer & Designer
+### Wanna be a Web Front-end Engineer..!
 
 #### Tech Stack
   + HTML5, CSS3, Javascript, ES6
