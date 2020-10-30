@@ -7,5 +7,15 @@
   + React.js
   + Photoshop, Illustrator, Figma
   
+#### Career
+  + 2015.03 ~ <br/>
+    Major in Global-Media, IT college of Soongsil University
+    
+  + 2019.03 ~ 2020.01<br/>
+    Main Designer of S.Y.Company in Osaka, Japan
+    
+  + 2020.07 ~ <br/>
+    Beginning to study Web Front-end
+  
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
