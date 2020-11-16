@@ -5,7 +5,11 @@
 #### Tech Stack
   + HTML5, CSS3, Javascript, ES6
   + React.js
+  + C, C++
   + Photoshop, Illustrator, Figma
+  
+#### Additional Development Experience
+  + Node.js, Express, Processing, OpenCV
   
 #### Career
   + 2015.03 ~ <br/>
