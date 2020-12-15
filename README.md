@@ -5,7 +5,7 @@
 #### Tech Stack
   + HTML5, CSS3, Javascript, ES6
   + React.js
-  + Photoshop, Illustrator, Figma
+  + Photoshop, Illustrator, XD, Figma
   
 #### Additional Development Experience
   + Node.js, Express, C, C++, Processing, OpenCV
