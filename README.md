@@ -8,7 +8,7 @@
   + Photoshop, Illustrator, XD, Figma
   
 #### Additional Development Experience
-  + Node.js, Express, C, C++, Processing, OpenCV
+  + Node.js, Express, MySQL, C, C++, Processing, OpenCV
   
 #### Career
   + 2015.03 ~ <br/>
