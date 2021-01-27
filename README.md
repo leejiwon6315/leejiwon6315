@@ -6,7 +6,7 @@
   + Photoshop, Illustrator, XD, Figma
   
 #### Additional Development Experience
-  + Redux, Node.js, Express, MySQL
+  + Redux, Typescript, Node.js, Express, MySQL
   + C, C++, Processing, OpenCV
   
 #### Career
@@ -17,7 +17,7 @@
     Main Designer of S.Y.Company in Osaka, Japan
     
   + 2020.07 ~ <br/>
-    Beginning to study Web Front-end
+    Beginning to study Web Front-End
   
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
