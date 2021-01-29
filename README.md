@@ -10,9 +10,6 @@
   + C, C++, Processing, OpenCV
   
 #### Career
-  + 2015.03 ~ <br/>
-    Major in Global-Media, IT college of Soongsil University
-    
   + 2019.03 ~ 2020.01<br/>
     Main Designer of S.Y.Company in Osaka, Japan
     
