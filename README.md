@@ -1,12 +1,12 @@
 # Hi, I'm `< JEEWON />`  👻
 
 #### Tech Stack
-  + HTML5, CSS3, Javascript + ES6
+  + HTML5, CSS3, Javascript, ES6, Typescript
   + React.js
   + Photoshop, Illustrator, XD, Figma
   
 #### Additional Development Experience
-  + Redux, Typescript, Node.js, Express, MySQL
+  + Redux, Node.js, Express, MySQL
   + C, C++, Processing, OpenCV
   
 #### Career
