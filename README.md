@@ -2,11 +2,10 @@
 
 #### Tech Stack
   + HTML5, CSS3, Javascript, Typescript
-  + React, Redux
-  + Photoshop, Illustrator, XD, Figma
+  + React/Next, Redux
   
 #### Additional Development Experience
-  + Node.js, Express, MySQL
+  + Node.js, Express, MySQL, MongoDB
   + C, C++, Processing, OpenCV
   
 #### Career
