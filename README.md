@@ -1,4 +1,4 @@
-# Hi, I'm `< JEEWON />`  👻
+## Hi, I'm `< JEEWON />`  👻
 
 #### Tech Stack
   + HTML5, CSS3, Javascript, Typescript
