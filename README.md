@@ -13,7 +13,7 @@
     Main Designer of S.Y.Company in Osaka, Japan
 
   + 2021.03 ~ <br/>
-    Front-End Intern of Digger
+    Front-End Developer of Digger
   
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
