@@ -1,8 +1,7 @@
 ## Hi, I'm `< JEEWON />`  👻
 
 #### Tech Stack
-  + HTML5, CSS3, Javascript(+ES6), Typescript
-  + React/Next, Redux
+  + HTML5, CSS3, Javascript(+ES6), Typescript, React/Next.js, Redux
   
 #### Additional Development Experience
   + Node.js, Express, MySQL, MongoDB
