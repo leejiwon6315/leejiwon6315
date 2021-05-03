@@ -2,6 +2,7 @@
 
 #### Tech Stack
   + Javascript(+ES6), Typescript, React/Next.js, Redux
+  + Jest, Storybook
   
 #### Additional Development Experience
   + Node.js, Express, MySQL, MongoDB
