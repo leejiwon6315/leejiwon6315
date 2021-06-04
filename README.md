@@ -2,7 +2,8 @@
 
 #### Tech Stack
   + Javascript(+ES6), Typescript, React/Next.js, Redux
-  + Jest, Storybook, Styled Components
+  + Sass, Styled Components
+  + Jest, Storybook
   + Node.js, Express, MongoDB
 
 #### Career
