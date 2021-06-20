@@ -4,7 +4,7 @@
   + Javascript(+ES6), Typescript, React/Next.js, Redux
   + Sass, Styled Components
   + Jest, Storybook
-  + Node.js, Express, MongoDB
+  + Node.js, Express, MongoDB, GraphQL
 
 #### Career
   + 2019.03 ~ 2020.01<br/>
