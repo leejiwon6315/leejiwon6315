@@ -14,7 +14,7 @@
     Front-End Development Intern of "Digger"
   
   + 2021.06 ~ <br/>
-    Crew of "J2KB"
+    Front-End Developer in Dev-team of "J2KB"
   
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
