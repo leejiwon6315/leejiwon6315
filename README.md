@@ -17,7 +17,7 @@
     Front-End Developer in Dev-team of "J2KB"
     
   + 2021.07 ~ <br/>
-    Front-End Developer in "Plog"
+    Front-End Developer in Dev-team of "Plog"
   
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
