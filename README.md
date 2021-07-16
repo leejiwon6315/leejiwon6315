@@ -1,8 +1,8 @@
 ## Hi, I'm `< JEEWON />`  👻
 
 #### Tech Stack
-  + Javascript(+ES6), Typescript, React/Next.js, Redux
-  + Sass, Styled Components
+  + Javascript/ES6, Typescript, React/Next.js, Redux
+  + Sass/Scss, Styled Components
   + Node.js, Express, MongoDB
 
 #### Career
