@@ -16,7 +16,7 @@
     Front-End Developer in "J2KB" & "Plog", IT Project Crew
   
   + 2021.09 ~ <br/>
-    Front-End Development Intern of "Weplanet"
+    Front-End Development Intern of "WePlanet"
    
 #### Brand Operating
   + [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
