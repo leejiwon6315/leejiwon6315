@@ -6,14 +6,14 @@
   + Node.js, Express, MongoDB
 
 #### Career
-  + 2019.03 ~ 2020.01 <br/>
-    Main Designer of "S.Y.Company" in Osaka, Japan
-
   + 2021.03 ~ 2021.04 <br/>
     Front-End Development Intern of "Digger"
   
-  + 2021.06 ~ <br/>
-    Front-End Developer in "J2KB" & "Plog", IT Project Crew
+  + 2021.06 ~ 2021.09 <br/>
+    Front-End Developer in "J2KB", IT Project Crew
+    
+  + 2021.07 ~ <br />
+    Front-End Developer in "Plog", IT Project Crew
   
   + 2021.09 ~ <br/>
     Front-End Development Intern of "WePlanet"
