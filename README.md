@@ -13,7 +13,7 @@
     Front-End Developer in "J2KB", IT Project Crew
     
   + 2021.07 ~ <br />
-    Front-End Developer in "Plog", IT Project Crew
+    Front-End Developer in "Plog: Doooer", IT Project Crew
   
   + 2021.09 ~ <br/>
     Front-End Development Intern of "WePlanet"
