@@ -1,6 +1,6 @@
 ## Hi, I'm `< JEEWON />` 👻
 
-#### Tech Stack
+#### 🔨 Tech Stack
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-#### Brand Operating
+#### ⛓ Brand Operating
 
 - [A.ELO : Hand-Made Steel Accessory](https://www.idus.com/a-elo)
